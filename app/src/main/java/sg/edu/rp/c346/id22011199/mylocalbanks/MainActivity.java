@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.EnglishSelection) {
             tvDBS.setText("DBS");
             tvOCBC.setText("OCBC");
-            tvOCBC.setText("UOB");
+            tvUOB.setText("UOB");
 
             return true;
 
